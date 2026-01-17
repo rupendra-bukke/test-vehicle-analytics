@@ -10,6 +10,10 @@
 		{
 			"name": "python-for-data-analysis",
 			"path": "../python-for-data-analysis"
+		},
+		{
+			"name": "databricks-learning",
+			"path": "../databricks-learning"
 		}
 	],
 	"settings": {}
