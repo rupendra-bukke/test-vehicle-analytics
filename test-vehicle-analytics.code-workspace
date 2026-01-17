@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "data-science-projects",
+			"path": "../data-science-projects"
+		},
+		{
+			"name": "python-for-data-analysis",
+			"path": "../python-for-data-analysis"
+		}
+	],
+	"settings": {}
+}
